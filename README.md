@@ -10,6 +10,8 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **tandon.aryaman1@gmail.com**
+  
+- In my free time, I solve questions on Leetcode & GFG
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
